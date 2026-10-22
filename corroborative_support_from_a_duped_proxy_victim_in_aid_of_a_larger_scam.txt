@@ -1,0 +1,20 @@
+The practice of manipulating one individual so that they unwittingly provide corroboration or validation to help scam other people is a highly sophisticated social engineering tactic. In cybersecurity and fraud psychology, this framework is known by several specific terms depending on how the victim is used:
+
+1. The Proxy Victim (or Unwitting Accomplice)
+
+In this scenario, the fraudster tricks an initial victim into believing a fabricated scenario (pretexting). Once the first victim is fully convinced, the fraudster instructs them to reach out to their own friends, family, or colleagues to validate the opportunity. Because the secondary targets receive the recommendation from a trusted personal connection, their natural skepticism drops drastically. [1] (https://www.sunwestbank.com/resource-center/security-center/what-is-impersonation-in-social-engineering/), [2] (https://www.youtube.com/watch?v=ONvJAObw2yg&t=6), [3] (https://www.tripwire.com/state-of-security/top-scam-techniques-what-you-need-to-know)
+
+2. Fake "Social Proof" & Manufactured Testimonials
+
+Scammers frequently hijack the accounts of legitimate individuals or use psychological manipulation to coerce a victim into posting positive reviews, video testimonials, or financial "proof of profit". [1] (https://www.tripwire.com/state-of-security/top-scam-techniques-what-you-need-to-know)
+• How it works: A scammer might freeze a victim's funds in a fraudulent investment scheme and claim, "We will release your money only if you record a video stating you successfully withdrew $10,000."
+• The result: The victim provides genuine, earnest-looking corroboration. The scammer then uses this video to lure in dozens of new targets who trust the "real person" testifying. [1] (https://www.facebook.com/Hardhatelectronics/videos/tie/1116486117977225/), [2] (https://www.tripwire.com/state-of-security/top-scam-techniques-what-you-need-to-know)
+
+3. Identity Impersonation and Hijacking
+
+Instead of manipulating the person in real-time, fraudsters frequently hack or duplicate an individual's profile (cloning) to use their identity as a trust anchor. They leverage the compromised individual's existing relationship history to corroborate a fake emergency or an investment "tip" to their contact list. [1] (https://www.facebook.com/PHQJKP/videos/scammers-can-use-someones-identity-including-their-name-image-phone-number-call-/1419165506495157/), [2] (https://www.facebook.com/SurigaodelNortePulis/posts/a-woman-is-deceived-by-a-scammer-using-multiple-synthetic-identitiesdonttaketheb/1107289325532683/), [3] (https://www.scamwatch.gov.au/stop-check-protect/help-to-spot-and-avoid-scams/methods-scammers-use)
+
+Common Variations of this Tactic
+
+• Affinity Fraud: The scammer targets a respected member of a specific community, religious group, or professional organization. Once that individual is fooled into endorsing a fraudulent project, the rest of the group follows suit under the assumption that it has been vetted. [1] (https://www.tripwire.com/state-of-security/top-scam-techniques-what-you-need-to-know)
+• The "Recovery" Peer Scam: Scammers infiltrate online support groups for fraud victims. They use a secondary account to pose as a fellow victim who "corroborates" that a specific third-party agent successfully recovered their stolen funds, driving the desperate target into another trap. [1] (https://www.facebook.com/Star.Ledger/posts/criminals-are-using-real-agents-names-and-virtual-backgrounds-to-trick-victims-i/1903560963956793/)
