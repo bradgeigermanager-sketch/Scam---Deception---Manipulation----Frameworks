@@ -1,0 +1,25 @@
+Scams that manipulate others into believing you are the last surviving person often exploit isolation, fear, and emotional vulnerability to extract money, personal data, or compliance. Below are the most common documented types:
+
+🪙 Crypto & "Last Survivor" Token Scams
+
+Scammers launch anonymous, unbacked tokens named things like ‌Last Survivor‌ (LSC), framing them as the only surviving digital asset after a fictional global apocalypse or blockchain collapse . These projects have no verifiable whitepaper, public team, working code, or real utility, yet falsely claim millions in seed funding to lure investors. Most are rug pulls that vanish overnight, leaving holders with worthless coins that can lose ‌98%+ of their value instantly‌ . Related fake "apocalypse survival" crypto platforms like apocalypse.buzz also run phishing and pyramid schemes to steal funds directly from wallets .
+
+💸 Faked Death / "Only I Survived" Financial Extortion
+
+This real-world scam involves scammers staging their own death, then later reappearing to convince victims they are the sole survivor of a supposed accident, disaster, or mass fatality event. They use this narrative to demand money for fake funeral costs, "legal fees" to unlock a hidden inheritance, or emergency supplies to stay alive in a post-apocalyptic scenario. A 2024 Singapore case saw a scammer pose as a dead person’s legal representative to steal ‌S$160,000‌ from a victim over 47 separate fake "inheritance processing" payments . In another 2025 Chinese case, a man faked his own car crash death, then used fake family accounts to extort 167,000 RMB from his grieving girlfriend under the pretense of covering post-death business debts .
+
+🚨 Co-Conspirator "Joint Fatality" Shakedown
+
+Scammers will pretend to die during a shared activity (like a drinking meetup), then have accomplices pose as police or family members to tell the other attendees they are the only surviving witness who must pay immediate "compensation" for the supposed death to avoid criminal charges. A 2024 case in Guizhou, China saw a scammer pretend to be a firefighter, fake his own fatal alcohol poisoning after a dinner, then use fake police identities to extort 5,800 RMB from two victims who believed they were the last people to see him alive and legally liable for his death .
+
+🧟 Post-Apocalypse Survival Community Scams
+
+Scammers build fake online "last survivors" communities, claiming the outside world has collapsed and only members of the group are still alive. They sell overpriced, useless survival gear, fake "safe passage" access, or exclusive shelter spots to people who believe they are among the last living humans. Sites like myfirstzombieapocalypse.com and lastsurvivor.store operate with hidden ownership, no valid SSL security, and a history of hosting malware, making them high-risk for identity theft and payment fraud . Even legitimate-looking zombie survival games like ‌Doomsday: Last Survivors‌ have been targeted by scammers who pretend to be the only remaining high-level player, tricking new users into sending them money for fake "exclusive in-game resources" that never arrive .
+
+📢 Doom Economy "Only I Know the Truth" Scams
+
+Large commercial "doom cartel" networks flood social media and email with narratives that society is on the brink of total collapse, positioning themselves as the only surviving experts who know how to help you outlast the apocalypse . They sell overpriced gold, worthless offshore residency schemes, paid newsletters, and survival subscriptions, using perpetual fear of a "last days" scenario to keep customers paying even when none of their predicted doomsdays ever actually happen .
+
+⚠️ Legal Risks
+
+Faking your death or staging a scenario to make others believe you are the last survivor is itself often a criminal offense in many jurisdictions. U.S. courts regularly prosecute these acts as wire fraud, false statement filings, or obstruction of justice, with perpetrators ordered to pay tens of thousands in restitution for wasting public emergency search resources, in addition to facing jail time .
